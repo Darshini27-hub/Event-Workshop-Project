@@ -1,15 +1,2 @@
-# Environment variables and secrets
-.env
-.env.*
-!.env.example
-backend/.env
-frontend/.env
-
-# Dependencies
 node_modules/
-
-# Frontend build output
-frontend/dist/
-
-# Logs
-npm-debug.log*
+.env
